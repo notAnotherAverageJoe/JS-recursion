@@ -1,0 +1,14 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "Recursion exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
